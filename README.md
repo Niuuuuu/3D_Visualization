@@ -1,6 +1,32 @@
 Capstone Project
 ================
 
+
+
+Demo
+--------------------------------------
+
+Online Dashboard
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/dashboard.png)
+
+Boxplot1
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/boxplot_1.png)
+
+Boxplot2
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/boxplot_2.png)
+
+Immersive Graph1
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/immersive_1.png)
+
+Immersive Graph2
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/immersive_2.png)
+
+Statical View1
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/statical_!.png)
+
+Statical View2
+![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/statical_2.png)
+
 Requirements
 --------------------------------------
 - WebGL compatible browser (Chrome is reccomended)
@@ -36,26 +62,3 @@ The values in data.php and maxData.php must be the same. If you are unsure set b
 
 
 
-Demo
---------------------------------------
-
-Online Dashboard
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/Dashboard.png)
-
-Boxplot1
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/boxplot_1.png)
-
-Boxplot2
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/boxplot_2.png)
-
-Immersive Graph1
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/immersive_1.png)
-
-Immersive Graph2
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/immersive_2.png)
-
-Statical View1
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/statical_!.png)
-
-Statical View2
-![alt tag](https://raw.githubusercontent.com/Niuuuuu/3D_Visualization/master/View_images/statical_2.png)
